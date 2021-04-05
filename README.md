@@ -1,5 +1,6 @@
 # TaskManager
 Console application without frameworks, only Java Core
+
 This is a test assignment.
 The app is able to:
 1. Show information, create and delete users, projects and tasks
